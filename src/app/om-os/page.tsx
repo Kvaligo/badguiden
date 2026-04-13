@@ -93,24 +93,9 @@ const networkSites = [
     description: "Specialist i badeværelse-håndværkere",
   },
   {
-    name: "KvaliTag.dk",
-    href: "https://kvalitag.dk",
-    description: "Tag-specialister og tagrenoveringer",
-  },
-  {
-    name: "TagGuiden.dk",
-    href: "https://tagguiden.dk",
-    description: "Uvildig guide til tagløsninger",
-  },
-  {
-    name: "FlotHegn.dk",
-    href: "https://flothegn.dk",
-    description: "Alt om hegn og haveafskærmning",
-  },
-  {
-    name: "TilbyGGuiden.dk",
+    name: "TilbygGuiden.dk",
     href: "https://tilbygguiden.dk",
-    description: "Guide til tilbygning og udestue",
+    description: "Guide til tilbygning og udestue — mange tilbygninger inkluderer nyt bad",
   },
 ];
 

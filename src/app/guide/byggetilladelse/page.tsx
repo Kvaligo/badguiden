@@ -293,6 +293,21 @@ export default function ByggetilladelsePage() {
           </p>
         </TipBox>
 
+        <div className="rounded-xl border border-primary/20 bg-primary/5 p-5 my-8">
+          <p className="text-sm text-text-muted">
+            Planlægger du en tilbygning med nyt badeværelse?{" "}
+            <a
+              href="https://tilbygguiden.dk/byggetilladelse"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-semibold text-primary underline underline-offset-2 hover:text-primary-dark"
+            >
+              TilbygGuiden har en komplet guide til byggetilladelse for tilbygninger
+            </a>
+            .
+          </p>
+        </div>
+
         {/* FAQ */}
         <h2 id="faq" className="scroll-mt-24">
           Ofte stillede spørgsmål
